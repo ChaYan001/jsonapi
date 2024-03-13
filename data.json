@@ -1,62 +1,26 @@
 [
-    {
-      "title": "The Truth About Income Inequality",
-      "author": "By Rana Foroohar",
-      "year": "2021",
-      "image": "https://time.com/wp-content/uploads/2021/10/Income-Inequality.jpg"
-    },
-    {
-      "title": "The Great Resignation is Here to Stay. Here's How Companies Can Adapt",
-      "author": "By Andrew R. McIlvaine",
-      "year": "2021",
-      "image": "https://time.com/wp-content/uploads/2021/10/Resignation.jpg"
-    },
-    {
-      "title": "How the U.S. Can Avoid Another Nightmare Scenario in 2022",
-      "author": "By Philip Elliott",
-      "year": "2021",
-      "image": "https://time.com/wp-content/uploads/2021/10/2022-Election.jpg"
-    },
-    {
-      "title": "The Pandemic's Impact on Kids' Mental Health is Deepening. Here's How Schools Can Help",
-      "author": "By Jamie Ducharme",
-      "year": "2021",
-      "image": "https://time.com/wp-content/uploads/2021/10/Kids-Mental-Health.jpg"
-    },
-    {
-      "title": "How to Talk to Your Kids About Climate Change",
-      "author": "By Justin Worland",
-      "year": "2021",
-      "image": "https://time.com/wp-content/uploads/2021/10/Climate-Change.jpg"
-    },
-    {
-      "title": "The Truth About Income Inequality",
-      "author": "By Rana Foroohar",
-      "year": "2021",
-      "image": "https://time.com/wp-content/uploads/2021/10/Income-Inequality.jpg"
-    },
-    {
-      "title": "The Great Resignation is Here to Stay. Here's How Companies Can Adapt",
-      "author": "By Andrew R. McIlvaine",
-      "year": "2021",
-      "image": "https://time.com/wp-content/uploads/2021/10/Resignation.jpg"
-    },
-    {
-      "title": "How the U.S. Can Avoid Another Nightmare Scenario in 2022",
-      "author": "By Philip Elliott",
-      "year": "2021",
-      "image": "https://time.com/wp-content/uploads/2021/10/2022-Election.jpg"
-    },
-    {
-      "title": "The Pandemic's Impact on Kids' Mental Health is Deepening. Here's How Schools Can Help",
-      "author": "By Jamie Ducharme",
-      "year": "2021",
-      "image": "https://time.com/wp-content/uploads/2021/10/Kids-Mental-Health.jpg"
-    },
-    {
-      "title": "How to Talk to Your Kids About Climate Change",
-      "author": "By Justin Worland",
-      "year": "2021",
-      "image": "https://time.com/wp-content/uploads/2021/10/Climate-Change.jpg"
-    }
-  ]
+  {
+  "title": "Amy Schneider’s Jeopardy! Streak Ends at 40 Consecutive Wins and $1.4Million",
+  "link": "https://time.com/6142934/amy-schneider-jeopardy-streak-ends/"
+  },
+  {
+  "title": "'Writing With Fire' Shines a Light on All-Women News Outlet",
+  "link": "https://time.com/6142628/writing-with-fire-india-documentary/"
+  },
+  {
+  "title": "Moderna Booster May Wane After 6 Months",
+  "link": "https://time.com/6142852/moderna-booster-wanes-omicron/"
+  },
+  {
+  "title": "Pressure Mounts for Biden to Nominate a Black Woman to the Supreme",
+  "link":"https://time.com/6142743/joe-biden-supreme-court-nominee-black-woman-campaign-promise/"
+  },
+  {
+  "title": "The James Webb Space Telescope Is in Position—And Now We Wait",
+  "link": "https://time.com/6142769/james-webb-space-telescope-reaches-l2/"
+  },
+  {
+  "title": "We Urgently Need a New National COVID-19 Response Plan",
+  "link": "https://time.com/6142718/we-need-new-national-covid-19-response-plan/"
+  }
+]
